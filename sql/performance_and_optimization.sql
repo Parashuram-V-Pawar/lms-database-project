@@ -80,7 +80,7 @@ GO
 -- =================================================================================================
 -- 4. Describe scenarios where materialized views would be useful for this schema.
 -- Solution:
--- We can use materialized views tto check number of user activities on daily basis like how many users are active daily.
+-- We can use materialized views to check number of user activities on daily basis like how many users are active daily.
 
 -- =================================================================================================
 -- 5. Explain how partitioning could be applied to user_activity.
