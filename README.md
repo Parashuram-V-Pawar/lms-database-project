@@ -86,7 +86,7 @@ Run sql scripts in order
 2. Now execute insert_values.sql to insert values into table
 Note: We have both user defined values and inserting values from CSV files 
     execute import statements based on your requirements.
-3. Now you can other files which contains queries, performance improvement queries.
+3. Now you can execute other files which contains queries and performance improvement queries.
 ```
 
 ## Author
