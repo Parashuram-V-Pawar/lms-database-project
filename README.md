@@ -79,6 +79,7 @@ Move to project folder
 ```
 
 ## How to Use
+```
 Once you have installed all the requirements 
 Run sql scripts in order
 1. First execute create_table.sql - Creates the database, schema and tables.
@@ -86,7 +87,7 @@ Run sql scripts in order
 Note: We have both user defined values and inserting values from CSV files 
     execute import statements based on your requirements.
 3. Now you can other files which contains queries, performance improvement queries.
-
+```
 
 ## Author
 ```
